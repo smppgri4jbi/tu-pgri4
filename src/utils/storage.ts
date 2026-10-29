@@ -389,9 +389,9 @@ export const INITIAL_DASHBOARD_SETTINGS: DashboardSettings = {
 export const INITIAL_CLOUD_CONFIG: CloudStorageConfig = {
   googleDrive: {
     connected: true,
-    folderName: 'Arsip Surat Sekolah Resmi SMAN 1',
-    accountEmail: 'tatausaha.sman1jkt@gmail.com',
-    totalSyncedFiles: 48,
+    folderName: 'Arsip Surat SMP PGRI 4 Jambi',
+    accountEmail: 'akbarmnur25@gmail,com',
+    totalSyncedFiles: 0,
     lastSyncAt: '28 Okt 2026 14:22 WIB'
   },
   dropbox: {
