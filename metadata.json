@@ -1,0 +1,6 @@
+{
+  "name": "SIMPEL-Surat Sekolah Digital",
+  "description": "Aplikasi administrasi dan pembuat surat resmi sekolah otomatis dilengkapi kop surat kustom, tanda tangan digital, enkripsi end-to-end, format PDF, notifikasi push real-time, audit log, dan sinkronisasi cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
