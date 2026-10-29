@@ -175,7 +175,7 @@ export const INITIAL_DOCUMENTS: LetterDocument[] = [
         recipientTarget: 'Folder /Arsip Surat Keluar 2026/Surat Keterangan/',
         sentAt: '28 Okt 2026 14:20 WIB',
         status: 'berhasil',
-        cloudFileUrl: 'https://drive.google.com/drive/folders/sman1-surat-2026'
+        cloudFileUrl: 'https://drive.google.com/drive/folders/1KiQ1-37rDnibwQDynLRWvBxGBjTT30ix?usp=sharing'
       }
     ],
     createdAt: '2026-10-28T14:10:00Z',

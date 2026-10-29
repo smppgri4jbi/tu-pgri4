@@ -289,7 +289,7 @@ export default function App() {
           sentAt: timeStr,
           status: 'berhasil',
           cloudFileUrl: provider === 'google_drive' 
-            ? `https://drive.google.com/file/d/sman1-${doc.id}/view` 
+            ? `https://drive.google.com/drive/folders/1KiQ1-37rDnibwQDynLRWvBxGBjTT30ix?usp=sharing` 
             : `https://dropbox.com/s/sman1/${doc.id}.pdf`
         },
         ...doc.deliveries
